@@ -1,0 +1,4 @@
+
+> concat-large-files@1.0.0 start /mnt/46DC3FF0DC3FD8BF/lugan/Documents/Arquivos/Projects/Javascript/concat-large-files
+> DEBUG=app* node --harmony-top-level-await index.js
+
